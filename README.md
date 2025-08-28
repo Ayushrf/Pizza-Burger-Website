@@ -48,7 +48,11 @@ Built with **HTML, CSS, and JavaScript**, this project highlights an engaging **
 ## 📷 Screenshots  
 <img width="1918" height="874" alt="Screenshot 2025-08-28 212831" src="https://github.com/user-attachments/assets/608209c2-4d35-461d-af36-36de2103f3bb" />
 
-<img width="537" height="1165" alt="Screenshot 2025-08-28 213038" src="https://github.com/user-attachments/assets/15000f4b-0d79-4f47-ba4b-b194ab107f6a" /> <img width="541" height="1162" alt="Screenshot 2025-08-28 213107" src="https://github.com/user-attachments/assets/9aebe754-4a62-4be0-be43-1a95d380b834" />
+<img width="537" height="1165" alt="Screenshot 2025-08-28 213038" src="https://github.com/user-attachments/assets/15000f4b-0d79-4f47-ba4b-b194ab107f6a" /> 
+
+<img width="541" height="1162" alt="Screenshot 2025-08-28 213107" src="https://github.com/user-attachments/assets/9aebe754-4a62-4be0-be43-1a95d380b834" />
+
+<img width="1899" height="838" alt="image" src="https://github.com/user-attachments/assets/542a6024-d080-4156-87a2-46fa2769ce9e" />
 
 ---
 

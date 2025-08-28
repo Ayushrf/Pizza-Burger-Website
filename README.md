@@ -1,4 +1,3 @@
-<img width="541" height="1162" alt="image" src="https://github.com/user-attachments/assets/2b1aebd0-7a9e-4a24-b2e8-015533c08a88" /># 🍕🍔 Pizza-Burger Website  
 
 A responsive food-themed website showcasing **Pizza and Burger menus**.  
 Built with **HTML, CSS, and JavaScript**, this project highlights an engaging **restaurant-style UI** with hero sections, menu cards, and interactive design elements.  

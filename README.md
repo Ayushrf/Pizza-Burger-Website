@@ -1,4 +1,4 @@
-# 🍕🍔 Pizza-Burger Website  
+<img width="541" height="1162" alt="image" src="https://github.com/user-attachments/assets/2b1aebd0-7a9e-4a24-b2e8-015533c08a88" /># 🍕🍔 Pizza-Burger Website  
 
 A responsive food-themed website showcasing **Pizza and Burger menus**.  
 Built with **HTML, CSS, and JavaScript**, this project highlights an engaging **restaurant-style UI** with hero sections, menu cards, and interactive design elements.  
@@ -39,13 +39,17 @@ Built with **HTML, CSS, and JavaScript**, this project highlights an engaging **
 ---
 
 ## 🌍 Live Demo  
-🔗 Netlify: [Pizza-Burger Website Live](https://bucolic-fox-157fea.netlify.app/#about)  
-🔗 GitHub Pages: *(if you want, you can enable it too)*  
+🔗 GitHub Pages: https://ayushrf.github.io/Pizza-Burger-Website/ 
+🔗 Netlify: https://bucolic-fox-157fea.netlify.app/#about
 
 ---
 
 ## 📷 Screenshots  
-*(Add screenshots of your site here — hero section, pizza menu, burger section, etc.)*  
+<img width="1918" height="874" alt="Screenshot 2025-08-28 212831" src="https://github.com/user-attachments/assets/608209c2-4d35-461d-af36-36de2103f3bb" />
+
+<img width="537" height="1165" alt="Screenshot 2025-08-28 213038" src="https://github.com/user-attachments/assets/15000f4b-0d79-4f47-ba4b-b194ab107f6a" />
+
+<img width="541" height="1162" alt="Screenshot 2025-08-28 213107" src="https://github.com/user-attachments/assets/9aebe754-4a62-4be0-be43-1a95d380b834" />
 
 ---
 
